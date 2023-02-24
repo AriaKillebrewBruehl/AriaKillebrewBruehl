@@ -1,4 +1,4 @@
-Hello! I'm @AriaKillebrewBruehl (Aria Killebrew Bruehl). I'm a rising senior at Reed College majoring in computer science and minoring in French. This summer I am an engineering intern at Sysdig! :octopus:
+Hello! I'm @AriaKillebrewBruehl (Aria Killebrew Bruehl). I'm a rising senior at Reed College majoring in computer science and minoring in French.
 
 I have completed:
 
