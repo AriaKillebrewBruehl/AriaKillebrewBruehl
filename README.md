@@ -1,4 +1,4 @@
-Hello! I'm @AriaKillebrewBruehl (Aria Killebrew Bruehl). I'm a rising senior at Reed College majoring in computer science and minoring in French.
+Hello! I'm @AriaKillebrewBruehl (Aria Killebrew Bruehl). I'm a second semester senior at Reed College majoring in computer science and minoring in French.
 
 I have completed:
 
@@ -6,6 +6,7 @@ I have completed:
  * :mechanical_arm: Computer Science Fundamentals II (which I now tutor and grade for)
  * :art: Computer Graphics
  * :floppy_disk: Computer Systems
+ * :minidisc: Operating Systems
  * :abacus: Computing and Complexity 
  * :closed_lock_with_key: Cryptogrphy 
  * :chart_with_upwards_trend:	 Data Structures and Algorithms (taken at UC Berkeley Extension)
