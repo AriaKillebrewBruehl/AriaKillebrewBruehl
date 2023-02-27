@@ -9,7 +9,7 @@ I have completed:
  * :minidisc: Operating Systems
  * :abacus: Computing and Complexity 
  * :closed_lock_with_key: Cryptogrphy 
- * :chart_with_upwards_trend:	 Data Structures and Algorithms (taken at UC Berkeley Extension)
+ * :chart_with_upwards_trend:	 Data Structures and Algorithms 
  * :game_die: Discrete Mathematics
  * :keyboard: Fundamentals of Programming Languages
  * :heavy_multiplication_x: Liner Algebra
