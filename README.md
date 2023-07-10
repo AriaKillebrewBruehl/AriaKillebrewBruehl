@@ -1,11 +1,10 @@
-Hello! I'm @AriaKillebrewBruehl (Aria Killebrew Bruehl). I'm a second semester senior at Reed College majoring in computer science and minoring in French.
-
+Hello! I'm @AriaKillebrewBruehl (Aria Killebrew Bruehl). I graduated from Reed College in May of 2023 with a BA in Computer Science with a minor in French. 
 I have completed:
 
- * :muscle: Computer Science Fundamentals I (which I now tutor for)
- * :mechanical_arm: Computer Science Fundamentals II (which I now tutor and grade for)
+ * :muscle: Computer Science Fundamentals I (which I have tutored for)
+ * :mechanical_arm: Computer Science Fundamentals II (which I have tutored and graded for)
  * :art: Computer Graphics
- * :floppy_disk: Computer Systems
+ * :floppy_disk: Computer Systems (which I have tutored for)
  * :minidisc: Operating Systems
  * :abacus: Computing and Complexity 
  * :closed_lock_with_key: Cryptogrphy 
