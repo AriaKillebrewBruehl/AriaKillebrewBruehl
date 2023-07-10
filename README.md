@@ -15,4 +15,4 @@ I have completed:
 
 I am looking for any opportunities to grow as a programmer and computer scientist and to refine my areas of interest. 
 
-More information can be found on my LinkedIn (www.linkedin.com/in/aria-killebrew-bruehl). 
+More information can be found on my [LinkedIn](www.linkedin.com/in/aria-killebrew-bruehl). 
